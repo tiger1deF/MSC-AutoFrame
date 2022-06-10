@@ -5,7 +5,7 @@
 
 3. Format all files so that the first 8 digits in the filename represent the date (i.e. 06042022), and drag all files for extraction inside the MSC_Data directory.
 
-4. Click the "Extract Data" button to extract all MSC data from the files into the spreadsheet. All files that have had data extracted are moved into the "Analyzed Files" Folder.
+4. Click the "Extract Data" button to extract all MSC data from the files into the spreadsheet. All files that have had data extracted are moved into the "Analyzed Files" Folder. MSC Compounds with empty AC50 values are highlighted in blue, flagged compounds are highlighted in red. 
  
 5. To sort the data from AC50 values least to greatest, click the "Sort AC50" button.
  
