@@ -5,10 +5,10 @@
 
 3. Format all files so that the first 8 digits in the filename represent the date (i.e. 06042022), and drag all files for extraction inside the MSC_Data directory.
 
-4. Click the "Extract Data" button to extract all MSC data from the files into the spreadsheet.
+4. Click the "Extract Data" button to extract all MSC data from the files into the spreadsheet. All files that have had data extracted are moved into the "Analyzed Files" Folder.
  
 5. To sort the data from AC50 values least to greatest, click the "Sort AC50" button.
  
-6. To remove all MSC compounds with no AC50 values, click the "Remove Empty AC50" button.
+6. All verified values that are thrown out and old values that are replaced are moved to a section starting at Column Index O at the same row indice of the MSC Compound ID. The total number of tests per compound is listed in the "# Tests for Compound" column.
  
 7. If there are any problems with the macro, or you have any questions, contact me at defrondeville.c@northeastern.edu or 1-617-710-6138.
