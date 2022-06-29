@@ -12,3 +12,7 @@
 6. All verified values that are thrown out and old values that are replaced are moved to a section starting at Column Index O at the same row indice of the MSC Compound ID. The total number of tests per compound is listed in the "# Tests for Compound" column.
  
 7. If there are any problems with the macro, or you have any questions, contact me at defrondeville.c@northeastern.edu or 1-617-710-6138.
+
+# Auto2Frame
+
+Auto2Frame functions the same way as the automatic dataframe, except instead of handling AC50 and efficacy values, it handles % effect values, and does not account for replicates. Comes with a macro that automatically generates a waterfall plot of the data.
